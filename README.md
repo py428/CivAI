@@ -3,7 +3,7 @@
 
 ##  About the Project  
 CivAI is an AI-powered platform that combines **NASA Earth observation data** with local air quality sensors to map urban pollution hotspots and recommend the most effective tree-planting locations.  
-It empowers **urban planners and communities** to take immediate, science-based action for healthier cities.  
+It empowers **urban planners** to take immediate, science-based action for healthier cities.  
 
 - **Challenge:** NASA Space Apps 2025 – *Data Pathways to Healthy Cities and Human Settlements*  
 - **Team:** CivAI Atlas (Bangladesh)  
